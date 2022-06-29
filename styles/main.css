@@ -1,0 +1,24 @@
+.pageHeader {
+    text-align: center;
+}
+
+#Representative {
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Rep-Info-Sec {
+   align-content: center;
+}
+.Rep-Info {
+    color: red;
+
+}
+a:visited {
+    color: rgb(185, 8, 8);
+}
+a:link {
+    color: red;
+}
